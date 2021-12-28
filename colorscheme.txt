@@ -1,0 +1,215 @@
+3024.dark.yml
+3024.light.yml
+Afterglow.yml
+Argonaut.yml
+Ashes.dark.yml
+Ashes.light.yml
+Astromouse.yml
+Atelierdune.dark.yml
+Atelierdune.light.yml
+Atelierforest.dark.yml
+Atelierforest.light.yml
+Atelierheath.dark.yml
+Atelierheath.light.yml
+Atelierlakeside.dark.yml
+Atelierlakeside.light.yml
+Atelierseaside.dark.yml
+Atelierseaside.light.yml
+Ayu-Dark.yml
+Ayu-Mirage.yml
+Base16-Default-Dark.yml
+Baskerville - Count Von Count.yml
+Baskerville - Eldorado dark.yml
+Baskerville - FarSide.yml
+Baskerville - ivory dark.yml
+Baskerville-ivorylight.yml
+Baskerville - lost woods.yml
+Belge.yml
+Bespin.dark.yml
+Bespin.light.yml
+Bitmute.yml
+Bleh-1.yml
+Blood-Moon.yml
+Breeze.yml
+Brewer.dark.yml
+Brewer.light.yml
+Campbell.yml
+Chalk.dark.yml
+Chalk.light.yml
+Challenger-Deep.yml
+Cloud.yml
+Cobalt-2.yml
+Codeschool.dark.yml
+Codeschool.light.yml
+Colorfulcolors.yml
+Darkside.yml
+Darktooth.yml
+Dawn.yml
+Deafened.yml
+Default.dark.yml
+Default.light.yml
+Derp.yml
+Digerati.yml
+Dkeg - canvasedpastel.yml
+Dkeg - catchmeifyoucan.yml
+Dkeg - citystreets.yml
+Dkeg - colorstar.yml
+Dkeg - panels.yml
+Dkeg - redphoenix.yml
+Dkeg - teva.yml
+Dkeg - unsiftedwheat.yml
+Dkeg - vwbug.yml
+DOOMICIDE darkocean.yml
+Dotshare.yml
+Dracula.yml
+Dwmrob.yml
+Eighties.dark.yml
+Eighties.light.yml
+Embers.dark.yml
+Embers.light.yml
+Epiphany.yml
+Eqie6.yml
+Erebus.yml
+Euphrasia.yml
+Fishbone.yml
+Garuda.dr460nized.yml
+Gjm.yml
+Gnometerm.yml
+Google.dark.yml
+Google.light.yml
+Gotham.yml
+Grandshell.yml
+Grayscale.dark.yml
+Grayscale.light.yml
+Greenscreen.dark.yml
+Greenscreen.light.yml
+Gruvbox-Dark.yml
+Gruvbox-Light.yml
+Gslob nature-suede.yml
+Gutterslob - aikofog.yml
+Gutterslob - lumifoo.yml
+Gutterslob lightwhite.yml
+Hund.yml
+Hybrid.yml
+Hyper.yml
+Iceberg-Dark.yml
+Iceberg-Light.yml
+Iiamblack.yml
+Insignificato.yml
+Invisibone.yml
+IR-Black.yml
+Isotope.dark.yml
+Isotope.light.yml
+iTerm-Default.yml
+Jasonwryan.yml
+Jellybeans.yml
+Jmbi.yml
+Jwr-dark.yml
+Kasugano.yml
+Kitty.yml
+Londontube.dark.yml
+Londontube.light.yml
+Marrakesh.dark.yml
+Marrakesh.light.yml
+Material-Theme.yml
+Material.yml
+Mikado.yml
+Mikazuki.yml
+Mocha.dark.yml
+Mocha.light.yml
+Molokai.yml
+Monokai-Pro.yml
+Monokai-Soda.yml
+Monokai.dark.yml
+Monokai.light.yml
+Monotheme.yml
+Mostly-bright.yml
+Muse.yml
+Muzieca lowcontrast.yml
+Muzieca mono.yml
+Muzieca pastel white.yml
+Nancy.yml
+Navy-and-ivory.yml
+Neon.yml
+New-Moon.yml
+Nightfly.yml
+Nord.yml
+Nova.yml
+Nucolors.yml
+Nudge.yml
+NumixDarkest.yml
+Ocean.dark.yml
+Ocean.light.yml
+Oceanic-Next.yml
+OK100 - Matrix.yml
+One-Dark.yml
+One-Light.yml
+Orangish.yml
+Oxide.yml
+Palenight.yml
+Panda.yml
+Paraiso.dark.yml
+Paraiso.light.yml
+Parker_brothers.yml
+Pencil-Dark.yml
+Pencil-Light.yml
+Phrak1.yml
+Pop!-OS.yml
+Pretty-and-pastel.yml
+Pulp.yml
+Railscasts.dark.yml
+Railscasts.light.yml
+Rasi.yml
+Rezza.yml
+Rooster - SOS.yml
+Rydgel.yml
+S3r0-modified.yml
+Seabird.yml
+Seoul256.yml
+Sexcolors.yml
+Shapeshifter.dark.yml
+Shapeshifter.light.yml
+Shic.yml
+Simple_rainbow.yml
+Snazzy.yml
+Solarized-Dark.yml
+Solarized-Light.yml
+Sourcerer.yml
+Splurge.yml
+Substrata.yml
+Swayr.yml
+Sweetlove.yml
+Taerminal.yml
+Tango.yml
+Tangoesque.yml
+Tangoish.yml
+Tartan.yml
+Tender.yml
+Terminal-app-Basic.yml
+Terminal-app.yml
+Theme2.yml
+Thwump.yml
+Tlh.yml
+Tokyonight_Day.yml
+Tokyonight_Night.yml
+Tokyonight_Storm.yml
+Tomorrow-Night-Bright.yml
+Tomorrow-Night.yml
+Tomorrow.dark.yml
+Tomorrow.light.yml
+Trim-yer-beard.yml
+Twilight.dark.yml
+Twilight.light.yml
+Ubuntu.yml
+User 77 - Mashup colors.yml
+Vacuous2.yml
+Visiblue.yml
+Visibone-alt-2.yml
+Visibone.yml
+vscode.dark.yml
+Wombat.yml
+X-dotshare.yml
+X-erosion.yml
+XTerm.yml
+Yousai.yml
+Zenburn.yml

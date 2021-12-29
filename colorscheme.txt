@@ -36,7 +36,6 @@ Brewer.light.yml
 Campbell.yml
 Chalk.dark.yml
 Chalk.light.yml
-Challenger-Deep.yml
 Cloud.yml
 Cobalt-2.yml
 Codeschool.dark.yml
@@ -72,7 +71,6 @@ Eqie6.yml
 Erebus.yml
 Euphrasia.yml
 Fishbone.yml
-Garuda.dr460nized.yml
 Gjm.yml
 Gnometerm.yml
 Google.dark.yml
@@ -93,7 +91,6 @@ Hund.yml
 Hybrid.yml
 Hyper.yml
 Iceberg-Dark.yml
-Iceberg-Light.yml
 Iiamblack.yml
 Insignificato.yml
 Invisibone.yml
